@@ -8,6 +8,3 @@ end
 def not_safe?(speed)
 	Speed > 80 ? "55" : "safe"
 end
-	
-
-
